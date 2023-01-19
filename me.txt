@@ -1,0 +1,5 @@
+vless://77d0d3b5-c7b9-41c6-cc46-391098d947c7@172.67.68.87:443?sni=jamshidtk.monster&security=tls&type=ws&path=/&host=jamshidtk.monster#CloudFlare
+vless://77d0d3b5-c7b9-41c6-cc46-391098d947c7@sciencedirect.com:443?sni=jamshidtk.monster&security=tls&type=ws&path=/&host=jamshidtk.monster#CloudFlare
+trojan://ibnIM4kqBV@sciencedirect.com:8443?sni=jamshidtk.monster&security=tls&type=grpc#CloudFlare+(grpc)
+vmess://ewogICAgImFkZCI6ICIxODUuMTQzLjIzMi4yIiwKICAgICJhaWQiOiAiMCIsCiAgICAiaG9zdCI6ICJzc2wuYXdsb25lLm9ubGluZSIsCiAgICAiaWQiOiAiYzg1NDNlYWUtM2E4NC00ZDM4LWFhNGQtM2YzZmYyZDMyY2VkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLzQxNTg0IiwKICAgICJwb3J0IjogIjgwIiwKICAgICJwcyI6ICJNZSIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiIiwKICAgICJ2IjogIjIiCn0K
+trojan://7U95vh3RTo@sciencedirect.com:2053?sni=jamshidtk.monster&security=tls&type=ws&host=jamshidtk.monster#trojan+ws+tls+cdn
