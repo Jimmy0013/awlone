@@ -1,4 +1,4 @@
 vless://8d3e9c3d-e471-4cf2-d574-7ac1fcd9acb5@135.181.97.188:8080?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#TCP
 vmess://eyJhZGQiOiJuaW0uYXdsb25lLmdhIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiYXdsb25lLnNwYWNlIiwiaWQiOiI0MjQ3ZDU0NC1hZTg2LTQ2YjgtYWM5NS0xYTkwYzNhMDIxZjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6Ik5CIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://77d0d3b5-c7b9-41c6-cc46-391098d947c7@sciencedirect.com:443?sni=jamshidtk.monster&security=tls&type=ws&path=/&host=jamshidtk.monster#CloudFlare
+vless://2fb248bc-7f70-4a82-e2cf-75057a5661c0@sciencedirect.com:443?path=%2F&security=tls&encryption=none&host=jamshidtk.monster&type=ws&sni=jamshidtk.monster#CloudFlare
 trojan://7U95vh3RTo@sciencedirect.com:2053?sni=jamshidtk.monster&security=tls&type=ws&host=jamshidtk.monster#trojan+ws+tls+cdn
