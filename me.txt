@@ -1,4 +1,8 @@
-vless://8d3e9c3d-e471-4cf2-d574-7ac1fcd9acb5@135.181.97.188:8080?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#TCP
-vmess://eyJhZGQiOiJuaW0uYXdsb25lLmdhIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiYXdsb25lLnNwYWNlIiwiaWQiOiI0MjQ3ZDU0NC1hZTg2LTQ2YjgtYWM5NS0xYTkwYzNhMDIxZjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6Ik5CIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://2fb248bc-7f70-4a82-e2cf-75057a5661c0@sciencedirect.com:443?path=%2F&security=tls&encryption=none&host=jamshidtk.monster&type=ws&sni=jamshidtk.monster#CloudFlare
-trojan://7U95vh3RTo@sciencedirect.com:2053?sni=jamshidtk.monster&security=tls&type=ws&host=jamshidtk.monster#trojan+ws+tls+cdn
+vless://17dc2af9-4f76-4707-9965-4dadeea7c6a0@b.jamshidtk.monster:2096?type=tcp&encryption=none&security=xtls&path=%2f&flow=xtls-rprx-direct#vless-tcp-xtls
+vless://17dc2af9-4f76-4707-9965-4dadeea7c6a0@b.jamshidtk.monster:2096?type=tcp&encryption=none&security=tls&path=%2f#vless-tcp-tls
+vless://17dc2af9-4f76-4707-9965-4dadeea7c6a0@b.jamshidtk.monster:2096?type=ws&encryption=none&security=tls&path=%2f2SMBFM#vless-ws-tls
+vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtdGxzIiwiYWRkIjoiYi5qYW1zaGlkdGsubW9uc3RlciIsInBvcnQiOiIyMDk2IiwiaWQiOiIxN2RjMmFmOS00Zjc2LTQ3MDctOTk2NS00ZGFkZWVhN2M2YTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL0FXMzlDUTJHIiwidGxzIjoidGxzIn0=
+trojan://17dc2af9-4f76-4707-9965-4dadeea7c6a0@b.jamshidtk.monster:2096#trojan-tcp
+vless://2fb248bc-7f70-4a82-e2cf-75057a5661c0@45.85.118.49:443?sni=jamshidtk.monster&security=tls&type=ws&path=/&host=jamshidtk.monster#CloudFlare
+vmess://ewogICAgImFkZCI6ICJuaW0uYXdsb25lLmdhIiwKICAgICJhaWQiOiAiMCIsCiAgICAiaG9zdCI6ICJhd2xvbmUuc3BhY2UiLAogICAgImlkIjogIjQyNDdkNTQ0LWFlODYtNDZiOC1hYzk1LTFhOTBjM2EwMjFmMSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAiODA4MCIsCiAgICAicHMiOiAiTkIiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAiIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogIiIsCiAgICAidiI6ICIyIgp9Cg==
+vless://8d3e9c3d-e471-4cf2-d574-7ac1fcd9acb5@135.181.97.188:8080?security=none&encryption=none&host=digikala.com&headerType=http&type=tcp#TCP
