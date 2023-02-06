@@ -3,3 +3,5 @@ vless://awlone@b.jamshidtk.monster:443?type=tcp&encryption=none&security=xtls&pa
 vless://awlone@b.jamshidtk.monster:443?type=tcp&encryption=none&security=tls&path=%2f#vless-tcp-tls
 vless://awlone@b.jamshidtk.monster:443?type=ws&encryption=none&security=tls&path=%2f7NGHNS#vless-ws-tls
 trojan://8981fe11-26c3-4bdb-917b-6073f25e77af@b.jamshidtk.monster:443#trojan-tcp
+vless://93ab0875-a831-41ba-afae-dc06194035e8@45.85.118.253:2096?path=%2F&security=tls&encryption=none&host=jamshidtk.monster&type=ws&sni=jamshidtk.monster#CloudFlare
+vless://8d3e9c3d-e471-4cf2-d574-7ac1fcd9acb5@135.181.97.188:8080?security=none&encryption=none&host=shaparak.ir&headerType=http&type=tcp#TCP
