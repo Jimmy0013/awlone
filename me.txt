@@ -1,4 +1,2 @@
-vmess://eyJhZGQiOiJuaW0uYXdsb25lLmdhIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhd2xvbmUuc3BhY2UiLCJpZCI6IjcyYWEwMjAzLWRmMWMtNGMzYS04MWI0LTAyOTBjOTE4ZjUxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiTkIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://6bb1c7c1-3777-410a-9aed-052241275ceb@45.85.118.48:443?path=%2F&security=tls&encryption=none&host=awlone.site&type=ws&sni=awlone.site#CF
-trojan://SXTwRw1Rqw@45.85.118.48:2083?mode=multi&security=tls&type=grpc&serviceName=&sni=awlone.site#grpc
-vless://50439317-c344-4d44-9e36-ccafab85af43@nim.awlone.ga:8080?path=%2F&security=none&encryption=none&host=de.awlone.space&type=ws#AC
+vless://6bb1c7c1-3777-410a-9aed-052241275ceb@ip.awlone.ga:443?path=%2F&security=tls&encryption=none&host=awlone.ga&fp=chrome&type=ws&sni=awlone.ga#CF-1
+trojan://SXTwRw1Rqw@ip.awlone.ga:2083?mode=gun&security=tls&type=grpc&serviceName=awlone.ga&sni=awlone.ga#grpc-1
