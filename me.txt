@@ -1,3 +1,3 @@
 vless://6bb1c7c1-3777-410a-9aed-052241275ceb@ip.awlone.ga:443?path=%2F&security=tls&encryption=none&host=awlone.ga&fp=chrome&type=ws&sni=awlone.ga#CF-1
-trojan://B6OrbqIYqK@ip.awlone.ga:2083?security=tls&sni=awlone.ga&alpn=http%2F1.1&type=grpc&serviceName=awlone.ga&mode=gun#-grpc
+vless://6f230052-5ad7-4d25-da80-966c783aff3e@ip.awlone.ga:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=awlone.ga&sni=awlone.ga#grpc-Vless
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIi1BQyIsDQogICJhZGQiOiAiaXAtYWMuYXdsb25lLmdhIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICIyYzE2ZWIyNC1jYzIxLTQ0YTgtYzVhZS05MjIzYTNmNDFkNWYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFjLmF3bG9uZS5zaXRlIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICJodHRwLzEuMSINCn0=
